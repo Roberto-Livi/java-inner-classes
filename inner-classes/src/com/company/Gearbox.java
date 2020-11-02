@@ -19,7 +19,6 @@ public class Gearbox {
         private double ratio;
 
         public Gear(int gearNumber, double ratio) {
-
             this.gearNumber = gearNumber;
             this.ratio = ratio;
         }
